@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Neha Rana
+- 👋 Hey, I’m Neha Rana
 - 👀 I’m interested in exploring the world of data and using data to predict the future.
 - 🌱 I’m currently learning a lots of new stuff in AI/ML domain.
 - 💞️ I’m looking to collaborate with like minded people and enhance my skills in the field.
