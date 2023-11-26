@@ -9,3 +9,5 @@
 neharana404/neharana404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Scam me to see Neha Rana's Resume
+![QRCode](https://github.com/neharana404/neharana404/assets/145311912/055eac82-dacf-4c2e-aba7-8341124ccb9f)
