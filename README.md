@@ -11,4 +11,5 @@ You can click the Preview link to take a look at your changes.
 --->
 SCAN ME! to see Neha Rana's Resume
 
-![QRCode](https://github.com/neharana404/neharana404/assets/145311912/055eac82-dacf-4c2e-aba7-8341124ccb9f)
+![WhatsApp Image 2023-11-26 at 11 26 27](https://github.com/neharana404/neharana404/assets/145311912/43a8ad5b-d2ce-4698-8e22-274fee2658ce)
+
